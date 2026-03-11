@@ -78,7 +78,7 @@ These visualizations help understand how deals vary in price and discount levels
 
 # Key Observations
 
-Some interesting observations from the analysis include:
+Some observations from the analysis include:
 
 * Many products show significant discounts compared to their original prices.
 * Some items do not include shipping information, which required cleaning.
@@ -89,12 +89,13 @@ Some interesting observations from the analysis include:
 
 # Challenges
 
-A few challenges appeared during the project:
+Few challenges appeared during the project:
 
 * The webpage uses lazy loading, so scrolling was required to load all products.
 * Some products did not have an original price listed.
 * Shipping details were sometimes missing or inconsistent.
 * Configuring GitHub Actions to run the scraper automatically required additional setup.
+* Having to clean the data after its execution from the automation.
 
 ---
 
