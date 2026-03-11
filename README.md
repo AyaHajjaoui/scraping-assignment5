@@ -76,7 +76,7 @@ These visualizations help understand how deals vary in price and discount levels
 
 ---
 
-# Key Observations
+# Key Findings
 
 Some observations from the analysis include:
 
@@ -95,8 +95,7 @@ Few challenges appeared during the project:
 * Some products did not have an original price listed.
 * Shipping details were sometimes missing or inconsistent.
 * Configuring GitHub Actions to run the scraper automatically required additional setup.
-* Having to clean the data after its execution from the automation.
-
+* Running the cleaning step automatically after each scraping cycle required extra workflow configuration.
 ---
 
 # Possible Improvements
